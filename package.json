@@ -1,0 +1,22 @@
+{
+  "name": "javascript-quiz-application",
+  "version": "1.0.0",
+  "description": "This JavaScript application allows users to take quizzes with multiple-choice questions. Questions and options are defined in the code, and users can select their answers. Use this application to create fun and interactive quizzes for educational or entertainment purposes.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisla1/JavaScript-Quiz-Application"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "python-image-processing-script": "^1.0.0"
+  }
+}
